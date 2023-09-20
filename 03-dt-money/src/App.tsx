@@ -1,7 +1,7 @@
 export function App() {
 	return (
 		<>
-			<p>Hello</p>
+			<p>Hello </p>
 		</>
 	);
 }
